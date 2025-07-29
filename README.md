@@ -61,4 +61,4 @@ This project is for educational and research purposes only.
 
 ---
 
-> Built with ❤️ using Python, TShark, and Tkinter.
+> Built with  using Python, TShark, and Tkinter.
